@@ -47,7 +47,7 @@ module "resource_group" {
 
 ## Author
 
-This module is maintained by [Your Name](https://github.com/yourusername).
+This module is maintained by [Engin Kesgin](https://github.com/EngKe).
 
 ## License
 
