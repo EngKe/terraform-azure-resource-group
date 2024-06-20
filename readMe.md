@@ -14,10 +14,10 @@ module "resource_group" {
 
 ### Inputs
 
-| Name                  | Description                             | Type   | Default     | Required |
-|-----------------------|-----------------------------------------|--------|-------------|----------|
-| `resource_group_name` | The name of the resource group          | string | n/a         | yes      |
-| `location`            | The location of the resource group      | string | `"East US"` | no       |
+| Name                  | Description                             | Type   | Default | Required |
+|-----------------------|-----------------------------------------|--------|---------|----------|
+| `resource_group_name` | The name of the resource group          | string | n/a     | yes      |
+| `location`            | The location of the resource group      | string | n/a     | yes      |
 
 ## Outputs
 
